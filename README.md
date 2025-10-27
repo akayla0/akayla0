@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="(https://www.canva.com/design/DAG3BAbiHaE/SwHHSWDywk47TqySL762tA/edit?ui=e30)" alt="akayla0 profile banner" width="100%" />
+  <img src="https://github.com/akayla0/akayla0/blob/main/McKayla%20DeSpain.png" alt="akayla0 profile banner" width="100%" />
 </p>
 
 <h1 align="center" style="color:#ff69b4;">Hi, I'm Kayla</h1>
