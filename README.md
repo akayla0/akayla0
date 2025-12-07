@@ -32,14 +32,14 @@
 
 ---
 
-## 🔗 Connect with Me
+## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/mckayla-d-988676310/)
 - [Portfolio](https://akayla0.github.io/)
 
 ---
 
-## 🎀 Tech & Tools
+## Tech & Tools
 
 ![Unity](https://img.shields.io/badge/Unity-fff?style=for-the-badge&logo=unity&logoColor=black&labelColor=ffb6c1&color=ff69b4)
 ![Godot](https://img.shields.io/badge/Godot-fff?style=for-the-badge&logo=godot-engine&logoColor=4682b4&labelColor=ffb6c1&color=ff69b4)
